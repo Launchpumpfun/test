@@ -17,7 +17,7 @@ export default function Footer() {
 					<Link href="#reviews">
 						<span>Reviews</span>
 					</Link>
-					<Link href="https://t.me/spiderman924" target="_blank">
+					<Link href="https://t.me/" target="_blank">
 						<span>Support</span>
 					</Link>
 				</div>
