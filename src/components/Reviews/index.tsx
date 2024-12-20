@@ -344,7 +344,7 @@ export default function Reviews() {
 					</Marquee>
 				</div>
 				<div className="flex flex-row justify-center items-center text-[20px] font-semibold px-4 lg:px-0">
-					<Link href="https://www.trustpilot.com/review/leakpragmatic.com" target="_blank">
+					<Link href="https://www.trustpilot.com/review/" target="_blank">
 						<button
 							type="button"
 							className="w-full lg:w-[453.422px] h-[71px] bg-neutral-950 rounded-[50px] hover:brightness-125 transition-all duration-300"
