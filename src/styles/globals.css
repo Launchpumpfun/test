@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-primary {
+	font-family: "Inter", serif;
+}
+
+.custom-marquee .rfm-child {
+	margin-right: 16px;
+}
+
+.bg-gd {
+	background: radial-gradient(circle at 100% 0%, #3365b8 0px, transparent 40%),
+		black;
+}
+
+.bg-gd-pricing {
+	background: radial-gradient(
+			circle at 3.394396551724138% 95%,
+			#3365b8 0px,
+			transparent 30%
+		), black;
+}
+
+.bg-gd-footer {
+	background: radial-gradient(circle at 3% 100%, #3365b8 0px, transparent 15%),
+		black;
+}
+
+.bg-gd-review {
+	background: radial-gradient(circle at center, #3365b8 0px, transparent 40%), black;
+}
+
+.sellix-iframe {
+    color-scheme: none;
+}
