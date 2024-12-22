@@ -32,9 +32,8 @@ export default function Pricing() {
 						<div className="text-[20px] font-semibold pt-8">Basic</div>
 						<div className="flex flex-row gap-2 items-center justify-center">
 							<span className="text-[20px] text-neutral-400 font-bold pb-10">
-								$
 							</span>
-							<span className="text-[70px] font-bold">19.99</span>
+							<span className="text-[60px] font-bold">$19.99</span>
 							<span className="text-[18px] text-neutral-400 font-bold">
 								USD
 							</span>
@@ -100,9 +99,8 @@ export default function Pricing() {
 						<div className="text-[20px] font-semibold">Exclusive</div>
 						<div className="flex flex-row gap-2 items-center justify-center">
 							<span className="text-[20px] text-neutral-400 font-bold pb-10">
-								$
 							</span>
-							<span className="text-[70px] font-bold">34.99</span>
+							<span className="text-[60px] font-bold">$34.99</span>
 							<span className="text-[18px] text-neutral-400 font-bold">
 								USD
 							</span>
@@ -171,9 +169,8 @@ export default function Pricing() {
 						<div className="text-[20px] font-semibold pt-8">Premium</div>
 						<div className="flex flex-row gap-2 items-center justify-center">
 							<span className="text-[20px] text-neutral-400 font-bold pb-10">
-								$
 							</span>
-							<span className="text-[70px] font-bold">24.99</span>
+							<span className="text-[60px] font-bold">$24.99</span>
 							<span className="text-[18px] text-neutral-400 font-bold">
 								USD
 							</span>
