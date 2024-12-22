@@ -82,7 +82,7 @@ export default function Pricing() {
 						<div className="pt-12">
 							<button
 								data-sellix-product="65d01976ebd98"
-								type="submit"
+								// type="submit"
 								className="w-[175px] h-[55px] bg-white rounded-[50px] text-[16px] text-black font-bold hover:brightness-90 transition-all duration-300"
 							>
 								Purchase
@@ -158,7 +158,7 @@ export default function Pricing() {
 						<div className="pt-12">
 							<button
 								data-sellix-product="65d01862c8887"
-								type="submit"
+								// type="submit"
 								className="w-[175px] h-[55px] bg-blue-500 rounded-[50px] text-[16px] text-white font-bold hover:brightness-110 transition-all duration-300"
 							>
 								Purchase
@@ -221,7 +221,7 @@ export default function Pricing() {
 						<div className="pt-12">
 							<button
 								data-sellix-product="65d018ea84d4b"
-								type="submit"
+								// type="submit"
 								className="w-[175px] h-[55px] bg-white rounded-[50px] text-[16px] text-black font-bold hover:brightness-90 transition-all duration-300"
 							>
 								Purchase
