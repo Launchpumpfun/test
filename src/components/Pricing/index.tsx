@@ -3,7 +3,7 @@ import { CheckIcon } from "lucide-react";
 export default function Pricing() {
 	return (
 		<div
-			className="pt-32 w-full flex flex-col justify-center items-center text-center bg-gd-2"
+			className="pt-14 w-full flex flex-col justify-center items-center text-center bg-gd-2"
 			id="pricing"
 		>
 			<p>

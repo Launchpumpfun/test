@@ -62,7 +62,7 @@ const ReviewCard = ({
 export default function Reviews() {
   return (
     <div className="w-full pt-28" id="reviews">
-      <div className="bg-gd-review">
+      <div className="bg-gd-review py-20">
         <div className="flex flex-col gap-2 text-center">
           <span className="text-[32px] font-bold lg:text-[42px]">
             Customer Reviews
