@@ -33,10 +33,10 @@ export default function Pricing() {
 						<div className="flex flex-row gap-2 items-center justify-center">
 							<span className="text-[20px] text-neutral-400 font-bold pb-10">
 							</span>
-							<span className="text-[60px] font-bold">$19.99</span>
-							<span className="text-[18px] text-neutral-400 font-bold">
-								USD
-							</span>
+                            <span className="text-[60px] font-bold pb-2">$19.99</span>
+                            <span className="text-[18px] text-neutral-400 font-bold pt-1">
+                                USD
+                            </span>
 						</div>
 					</div>
 					<div className="h-full w-full">
@@ -100,10 +100,10 @@ export default function Pricing() {
 						<div className="flex flex-row gap-2 items-center justify-center">
 							<span className="text-[20px] text-neutral-400 font-bold pb-10">
 							</span>
-							<span className="text-[70px] font-bold">$34.99</span>
-							<span className="text-[18px] text-neutral-400 font-bold">
-								USD
-							</span>
+                            <span className="text-[60px] font-bold pt-4">$34.99</span>
+                            <span className="text-[18px] text-neutral-400 font-bold pt-4">
+                                USD
+                            </span>
 						</div>
 					</div>
 					<div className="h-full w-full">
@@ -170,10 +170,10 @@ export default function Pricing() {
 						<div className="flex flex-row gap-2 items-center justify-center">
 							<span className="text-[20px] text-neutral-400 font-bold pb-10">
 							</span>
-							<span className="text-[60px] font-bold">$24.99</span>
-							<span className="text-[18px] text-neutral-400 font-bold">
-								USD
-							</span>
+                            <span className="text-[60px] font-bold pb-2" >$24.99</span>
+                            <span className="text-[18px] text-neutral-400 font-bold pt-1">
+                                USD
+                            </span>
 						</div>
 					</div>
 					<div className="h-full w-full">
