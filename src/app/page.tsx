@@ -6,7 +6,7 @@ import Reviews from "@/components/Reviews";
 
 export default function HomePage() {
 	return (
-		<main>
+		<main className="bg-gd">
 			<Hero />
 			<Pricing />
 			<Reviews />

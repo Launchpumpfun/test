@@ -7,18 +7,16 @@
 .font-primary {
   font-family: "Inter", serif;
 }
+html {
+	scroll-behavior: smooth;
+  }
 
 .custom-marquee .rfm-child {
   margin-right: 16px;
 }
 
 .bg-gd {
-  background: radial-gradient(
-    117.5757134886978% 190.13230894170187% at 100% 0%,
-    #0a1f38 0%,
-    rgb(54, 13, 91, 1) 21.99999988079071%,
-    rgb(0, 0, 0, 1) 44.999998807907104%
-  );
+  background: radial-gradient(117.5757134886978% 98.132309% at 100% 0%, #3365b8 0px, transparent 40%)
 }
 
 .bg-gd-pricing {
