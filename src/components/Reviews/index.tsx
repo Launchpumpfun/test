@@ -72,7 +72,7 @@ export default function Reviews() {
             about us.
           </span>
         </div>
-        <div className="flex flex-col gap-4 py-10">
+        <div className="flex flex-col gap-4 py-10 md:px-44">
           <Marquee
             direction="right"
             className="custom-marquee"
