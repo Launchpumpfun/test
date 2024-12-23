@@ -11,13 +11,13 @@ const reviewsData = [
   },
   {
     rating: 5,
-    text: "Amazing service and great selection of AI models. Highly recommended!",
+    text: "I'm impressed, they have terabytes of content and update almost daily!",
     author: "Sarah",
     location: "UK",
   },
   {
     rating: 5,
-    text: "The platform is intuitive and the results are outstanding. Best AI service I've used.",
+    text: "Best website ever, W leaks and best support simply 10/10!",
     author: "Michael",
     location: "CA",
   },
@@ -32,6 +32,24 @@ const reviewsData = [
     text: "Incredible variety of models and the interface is super user-friendly.",
     author: "David",
     location: "DE",
+  },
+  {
+    rating: 5,
+    text: "They have a great service and community! Fast help when needed and friendly staff!",
+    author: "Mike",
+    location: "NL",
+  },
+  {
+    rating: 5,
+    text: "Amazing service and great selection of models. Highly recommend!",
+    author: "Peter",
+    location: "UK",
+  },
+  {
+    rating: 5,
+    text: "There is lots of great content and it definitely is a must buy for everyone.",
+    author: "Lucas",
+    location: "US",
   },
 ];
 

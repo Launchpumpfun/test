@@ -24,20 +24,22 @@ export default function Hero() {
 				<div className="hidden lg:block">
 					<Image
 						priority
-						src={"/avQsfrnBF1akz1Jjjhzl0E000Y.avif"}
+						src={"/images/avQsfrnBF1akz1Jjjhzl0E000Y.avif"}
 						width={550}
 						height={273}
 						alt="discord-logo"
+						unoptimized
 					/>
 				</div>
 			</div>
 			<div className="flex flex-col lg:flex-row justify-center items-center gap-3 pt-[80px]">
 				<Image
 					priority
-					src={"/N8hiRu4sjmPwYUtgSveeJehEc4.avif"}
+					src={"/images/N8hiRu4sjmPwYUtgSveeJehEc4.avif"}
 					width={147}
 					height={49}
 					alt="models"
+					unoptimized
 				/>
 				<span className="text-neutral-400 text-[15px]">
 					Instant access to <span className="text-white">5,000+ models</span>

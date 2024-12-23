@@ -26,7 +26,6 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.className}`}>
       {/* <Script src="https://cdn.sellix.io/static/js/embed.js" /> */}
-
       <body className="bg-black text-white">
         {children}
         <script src="https://cdn.sellix.io/static/js/embed.js"></script>

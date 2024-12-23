@@ -13,7 +13,7 @@ export default function Pricing() {
 				>
 					Curated content tiers
 					<br />
-					for <span className="text-blue-500">your pleasure</span>
+					for <span className="text-custom-blue">your pleasure</span>
 				</span>
 			</p>
 			<p className="pt-2 pb-6 px-5 lg:px-0">
@@ -45,14 +45,8 @@ export default function Pricing() {
 								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
 									<CheckIcon size={16} />
 								</div>
-								<span className="text-[15px] font-medium">Instant Access</span>
-							</div>
-							<div className="flex flex-row items-center gap-3">
-								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
-									<CheckIcon size={16} />
-								</div>
 								<span className="text-[15px] font-medium">
-									One Time Payment
+									<span className="text-white">Instant</span> <span className="text-gray-500">Access</span>
 								</span>
 							</div>
 							<div className="flex flex-row items-center gap-3">
@@ -60,7 +54,7 @@ export default function Pricing() {
 									<CheckIcon size={16} />
 								</div>
 								<span className="text-[15px] font-medium">
-									100+ New Models Each Day!
+									<span className="text-white">One Time</span> <span className="text-gray-500">Payment</span>
 								</span>
 							</div>
 							<div className="flex flex-row items-center gap-3">
@@ -68,14 +62,24 @@ export default function Pricing() {
 									<CheckIcon size={16} />
 								</div>
 								<span className="text-[15px] font-medium">
-									All Trending Models
+									<span className="text-white">100+</span> <span className="text-gray-500">New Models Each Day!</span>
 								</span>
 							</div>
 							<div className="flex flex-row items-center gap-3">
 								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
 									<CheckIcon size={16} />
 								</div>
-								<span className="text-[15px] font-medium">PPVs Included</span>
+								<span className="text-[15px] font-medium">
+									<span className="text-gray-500">All</span> <span className="text-white">Trending</span> <span className="text-gray-500">Models</span>
+								</span>
+							</div>
+							<div className="flex flex-row items-center gap-3">
+								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
+									<CheckIcon size={16} />
+								</div>
+								<span className="text-[15px] font-medium">
+									<span className="text-white">PPVs</span> <span className="text-gray-500">Included</span>
+									</span>
 							</div>
 						</div>
 						<div className="pt-12">
@@ -112,14 +116,8 @@ export default function Pricing() {
 								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
 									<CheckIcon size={16} />
 								</div>
-								<span className="text-[15px] font-medium">Instant Access</span>
-							</div>
-							<div className="flex flex-row items-center gap-3">
-								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
-									<CheckIcon size={16} />
-								</div>
 								<span className="text-[15px] font-medium">
-									One Time Payment
+									<span className="text-white">Instant</span> <span className="text-gray-500">Access</span>
 								</span>
 							</div>
 							<div className="flex flex-row items-center gap-3">
@@ -127,7 +125,7 @@ export default function Pricing() {
 									<CheckIcon size={16} />
 								</div>
 								<span className="text-[15px] font-medium">
-									250+ New Models Each Day!
+									<span className="text-white">One Time</span> <span className="text-gray-500">Payment</span>
 								</span>
 							</div>
 							<div className="flex flex-row items-center gap-3">
@@ -135,21 +133,31 @@ export default function Pricing() {
 									<CheckIcon size={16} />
 								</div>
 								<span className="text-[15px] font-medium">
-									Custom Model Requests
+									<span className="text-white">250+</span> <span className="text-gray-500">New Models Each Day!</span>
 								</span>
 							</div>
 							<div className="flex flex-row items-center gap-3">
 								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
 									<CheckIcon size={16} />
 								</div>
-								<span className="text-[15px] font-medium">PPVs Included</span>
+								<span className="text-[15px] font-medium">
+									<span className="text-white">Custom</span> <span className="text-gray-500">Model</span> <span className="text-gray-500">Requests</span>
+								</span>
 							</div>
 							<div className="flex flex-row items-center gap-3">
 								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
 									<CheckIcon size={16} />
 								</div>
 								<span className="text-[15px] font-medium">
-									Snapchat & Teen Leaks
+									<span className="text-white">PPVs</span> <span className="text-gray-500">Included</span>
+								</span>
+							</div>
+							<div className="flex flex-row items-center gap-3">
+								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
+									<CheckIcon size={16} />
+								</div>
+								<span className="text-[15px] font-medium">
+									Snapchat & 18+ Teen Leaks
 								</span>
 							</div>
 						</div>
@@ -182,14 +190,8 @@ export default function Pricing() {
 								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
 									<CheckIcon size={16} />
 								</div>
-								<span className="text-[15px] font-medium">Instant Access</span>
-							</div>
-							<div className="flex flex-row items-center gap-3">
-								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
-									<CheckIcon size={16} />
-								</div>
 								<span className="text-[15px] font-medium">
-									One Time Payment
+									<span className="text-white">Instant</span> <span className="text-gray-500">Access</span>
 								</span>
 							</div>
 							<div className="flex flex-row items-center gap-3">
@@ -197,7 +199,7 @@ export default function Pricing() {
 									<CheckIcon size={16} />
 								</div>
 								<span className="text-[15px] font-medium">
-									150+ New Models Each Day!
+									<span className="text-white">One Time</span> <span className="text-gray-500">Payment</span>
 								</span>
 							</div>
 							<div className="flex flex-row items-center gap-3">
@@ -205,14 +207,24 @@ export default function Pricing() {
 									<CheckIcon size={16} />
 								</div>
 								<span className="text-[15px] font-medium">
-									Custom Model Requests
+									<span className="text-white">150+</span> <span className="text-gray-500">New Models Each Day!</span>
 								</span>
 							</div>
 							<div className="flex flex-row items-center gap-3">
 								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
 									<CheckIcon size={16} />
 								</div>
-								<span className="text-[15px] font-medium">PPVs Included</span>
+								<span className="text-[15px] font-medium">
+									<span className="text-white">Custom</span> <span className="text-gray-500">Model</span> <span className="text-gray-500">Requests</span>
+								</span>
+							</div>
+							<div className="flex flex-row items-center gap-3">
+								<div className="w-5 h-5 flex flex-row justify-center items-center bg-gray-500 rounded-full">
+									<CheckIcon size={16} />
+								</div>
+								<span className="text-[15px] font-medium">
+									<span className="text-white">PPVs</span> <span className="text-gray-500">Included</span>
+								</span>
 							</div>
 						</div>
 						<div className="pt-12">
